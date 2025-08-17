@@ -313,6 +313,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13805)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
 
++ [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) (May. 2025)
+
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard.svg?style=social&label=Star)](https://github.com/OS-Copilot/ScienceBoard)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.19897)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/ScienceBoard-Home/)
+
 + [MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://arxiv.org/abs/2505.12632) (May., 2025, CVPR 2025)
 
   [![Star](https://img.shields.io/github/stars/runamu/monday.svg?style=social&label=Star)](https://github.com/runamu/monday)
