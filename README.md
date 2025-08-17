@@ -742,6 +742,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
 
++ [TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](https://arxiv.org/abs/2504.12679v1) (Apr. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/TongUI-agent/TongUI-agent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12679v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tongui-agent.github.io/)
+
 + [MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users](https://arxiv.org/abs/2502.02982) (Feb., 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02982)
 
