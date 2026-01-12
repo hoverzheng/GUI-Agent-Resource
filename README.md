@@ -919,3 +919,5 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
 
 
+## LLM
+- [MAI-UI](https://github.com/Tongyi-MAI/MAI-UI): Real-World Centric Foundation GUI Agents ranging from 2B to 235B
